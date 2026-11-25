@@ -1,0 +1,8 @@
+{
+  "taskId": "ai-content-daily",
+  "title": "AI内容创作日报",
+  "description": "每天自动采集AI资讯、生成选题和文章",
+  "cronExpression": "10 9 * * *",
+  "prompt": "执行AI内容创作日报任务：\n\n1. 运行完整采集流程\n2. 生成情报包\n3. 生成选题包\n4. GitHub深度分析\n5. 生成1篇文章（基于当天最热选题）\n\n工作目录：D:\\AIWork\\projects\\ai-content-creator\n执行命令：cd D:\\AIWork\\projects\\ai-content-creator && python workflows/run_all.py",
+  "notifyOnCompletion": true
+}

@@ -1,0 +1,209 @@
+[
+  {
+    "title": "马斯克说上海跳舞视频不是AI",
+    "rank": 17,
+    "heat": 375239,
+    "url": "https://s.weibo.com/weibo?q=马斯克说上海跳舞视频不是AI",
+    "source": "weibo",
+    "timestamp": "2026-11-25T11:30:49.263259",
+    "category": "unknown",
+    "heat_score": 48.313441453353306,
+    "sources": [
+      "weibo"
+    ]
+  },
+  {
+    "title": "AI换脸还没完AI融脸又来了",
+    "rank": 19,
+    "heat": 354966,
+    "url": "https://s.weibo.com/weibo?q=AI换脸还没完AI融脸又来了",
+    "source": "weibo",
+    "timestamp": "2026-11-25T11:30:49.263259",
+    "category": "unknown",
+    "heat_score": 48.1330267558116,
+    "sources": [
+      "weibo"
+    ]
+  },
+  {
+    "title": "05后女孩把AI当搞钱搭子日入4千元",
+    "rank": 34,
+    "heat": 184246,
+    "url": "https://s.weibo.com/weibo?q=05后女孩把AI当搞钱搭子日入4千元",
+    "source": "weibo",
+    "timestamp": "2026-11-25T11:30:49.263259",
+    "category": "unknown",
+    "heat_score": 46.00557916062833,
+    "sources": [
+      "weibo"
+    ]
+  },
+  {
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
+    "stars": "1,826",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 46.49760822708333,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "stars": "1,003",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 46.49760822708333,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+    "stars": "1,074",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 46.49760822708333,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+    "stars": "727",
+    "url": "https://github.com/jingyaogong/minimind",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 46.49760822708333,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "stars": "360",
+    "url": "https://github.com/cursor/plugins",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 44.251300931733155,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "name": "firecrawl/firecrawl",
+    "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "stars": "991",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 46.49760822708333,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "name": "nginx/nginx",
+    "description": "The official NGINX Open Source repository.",
+    "stars": "158",
+    "url": "https://github.com/nginx/nginx",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 41.57281029926983,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "name": "openvinotoolkit/openvino",
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "stars": "185",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 42.085669163948765,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "stars": "802",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 46.49760822708333,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "stars": "703",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "github_trending",
+    "timestamp": "2026-11-25T11:30:49.891212",
+    "heat_score": 46.42972664181603,
+    "sources": [
+      "github_trending"
+    ]
+  },
+  {
+    "title": "Ternary Bonsai 2.5 27B",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "score": 367,
+    "comments": 124,
+    "source": "hackernews",
+    "timestamp": "2026-11-25T11:30:52.596414",
+    "heat_score": 48.23018165772636,
+    "sources": [
+      "hackernews"
+    ]
+  },
+  {
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "score": 94,
+    "comments": 14,
+    "source": "hackernews",
+    "timestamp": "2026-11-25T11:30:53.389145",
+    "heat_score": 43.41506264430069,
+    "sources": [
+      "hackernews"
+    ]
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "score": 195,
+    "comments": 58,
+    "source": "hackernews",
+    "timestamp": "2026-11-25T11:30:55.041310",
+    "heat_score": 46.09450960398904,
+    "sources": [
+      "hackernews"
+    ]
+  },
+  {
+    "title": "Active intrusion campaign against Check Point security management servers",
+    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+    "score": 270,
+    "comments": 139,
+    "source": "hackernews",
+    "timestamp": "2026-11-25T11:30:57.773676",
+    "heat_score": 47.56022015041002,
+    "sources": [
+      "hackernews"
+    ]
+  }
+]

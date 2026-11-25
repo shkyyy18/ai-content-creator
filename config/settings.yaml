@@ -1,0 +1,62 @@
+execution:
+  start_time: "09:10"
+  end_time: "09:55"
+  timezone: "Asia/Shanghai"
+
+collectors:
+  github:
+    username: "shkyyy18"
+    exclude_repos:
+      - "mi_fitness_data_bridge"
+
+  wechat:
+    method: "browser_automation"
+    bloggers:
+      - name: "花叔"
+        search_key: "花叔"
+      - name: "数字生命卡兹克"
+        search_key: "数字生命卡兹克"
+      - name: "新智元"
+        search_key: "新智元"
+
+  twitter:
+    method: "nitter"
+    nitter_instances:
+      - "nitter.net"
+      - "nitter.poast.org"
+      - "nitter.privacydev.net"
+    accounts:
+      - "sama"
+      - "ylecun"
+      - "karpathy"
+      - "AndrewYNg"
+      - "demishassabis"
+
+  funding:
+    sources:
+      - name: "36氪"
+        url: "https://36kr.com/newsflashes"
+      - name: "IT桔子"
+        url: "https://www.itjuzi.com/investevent"
+      - name: "TechCrunch"
+        url: "https://techcrunch.com/tag/venture-capital/"
+    min_amount: 1000000  # 100万美元起
+    include_angel: true
+
+scoring:
+  heat_threshold:
+    explosive: 80
+    hot: 50
+
+  platform_weights:
+    weibo: 0.30
+    twitter: 0.25
+    hackernews: 0.20
+    github: 0.15
+    wechat: 0.10
+
+article:
+  styles: ["huashu", "kazike", "xinzhiyuan"]
+  default_style: "huashu"
+  word_count: 1500
+  quality_threshold: 0.7

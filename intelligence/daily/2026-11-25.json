@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-25",
+  "start_time": "2026-11-25T11:13:17.832680",
+  "steps": [
+    {
+      "name": "weibo",
+      "success": true,
+      "count": 3
+    },
+    {
+      "name": "github",
+      "success": true,
+      "count": 1
+    },
+    {
+      "name": "twitter",
+      "success": false,
+      "count": 0
+    },
+    {
+      "name": "funding",
+      "success": false,
+      "count": 0
+    },
+    {
+      "name": "community",
+      "success": true,
+      "count": 4
+    }
+  ],
+  "total_items": 8,
+  "analysis": {
+    "total_unique": 8,
+    "explosive": 0,
+    "hot": 0,
+    "normal": 8,
+    "by_category": {
+      "hotspot": 3,
+      "product": 1,
+      "funding": 0,
+      "github": 0,
+      "wechat": 0,
+      "community": 4
+    }
+  },
+  "end_time": "2026-11-25T11:13:35.380920",
+  "duration_seconds": 17.54824
+}
