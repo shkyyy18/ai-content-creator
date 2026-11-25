@@ -1,5 +1,9 @@
 # AI内容创作系统 - 完整流程验证报告
 
+## 2026-11-25 定时任务已启用
+
+Codex 任务 `ai-09-10` 已绑定「AI内容创作日报」，每天北京时间 09:10 触发，计划 09:55 交付。已回读状态、时间和绑定。执行入口为 [AGENTS.md](AGENTS.md)。首次计划为 11 月 26 日 09:10，待实际定时交付验收。
+
 ## 2026-11-25 人工核验版
 
 今日可用交付见 [日报](intelligence/daily/2026-11-25-verified.md)、[5 个选题](creation/topics/2026-11-25-topics.md)、[GitHub 对比](intelligence/analysis/2026-11-25-github-verified.md)及 [公众号主稿](creation/published/2026-11-25-article.md)。下文记载采集和生成初测。原收入稿中的案例与收益缺少来源，另行完成了可追溯的 Bonsai 2.5 主稿。X、指定公众号样本、36 氪与 IT 桔子交叉核验和设备实测仍有缺口，详见本期日报。
